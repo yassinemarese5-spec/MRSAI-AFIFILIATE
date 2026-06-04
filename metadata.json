@@ -1,0 +1,6 @@
+{
+  "name": "MRSAI",
+  "description": "A minimal, high-converting digital product affiliate website showcasing top AI tools, SaaS apps, and services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
